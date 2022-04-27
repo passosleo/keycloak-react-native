@@ -18,7 +18,6 @@ export default function App() {
       }}
     >
       <Welcome />
-      <Text>HelloWorld!</Text>
     </ReactNativeKeycloakProvider>
   );
 };
